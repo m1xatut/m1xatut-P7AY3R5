@@ -2,8 +2,8 @@
   "Build": "Stable",
   "Last update": "08-11-2026",
   "Change Log:": "",
-  "#1": "Fixed Fake Duck timing & color transitions: accurate crouch-time detection (turns pure white once seated, red only during initial crouch descent)",
-  "#2": "Smooth progress circle fill for Fake Duck (100% full circle when seated)",
-  "version": "6.2",
-  "changelog": "Fixed Fake Duck readiness detection: red only while sitting down (~0.18s), instantly pure white upon reaching crouch position"
+  "#1": "Dormant Aimbot (DA): 1:1 stopwatch timer icon with filled dormant wedge sector from screenshot",
+  "#2": "Full Color Customization: in-menu color customization for every indicator (including ready/charging, safe/fatal, and custom tints)",
+  "version": "6.3",
+  "changelog": "CS2 Indicators: 1:1 DA stopwatch icon with dormant sector, full menu color customization for all indicators and dual-state transitions"
 }
