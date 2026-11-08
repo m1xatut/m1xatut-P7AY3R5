@@ -3,6 +3,6 @@
   "Last update": "08-11-2026",
   "Change Log:": "",
   "#1": "Double Tap: synchronized recharge timing and color change with the crosshair indicator and cheat exploit engine (zero visual lag)",
-  "version": "6.5",
-  "changelog": "Synchronized Double Tap recharge timing: removed artificial interpolation lag, instant readiness and color switch in sync with crosshair indicators"
+  "version": "6.6",
+  "changelog": "v6.6:\n- Fixed standalone Velocity Warning & Bomb Indicator positions upon script load\n- Fixed window anchor shift bug on load & separate default Y positions\n- Fully working Skybox Override ported from reference (load_name_sky, materials modulation, 3D sky toggle, cleanup)\n- Completely overhauled Enemy Prediction: discrete multi-tick Source physics simulation, ground friction, gravity, step climbing (18u), wall sliding, choke/fakelag estimation, and 3D gradient ribbon visuals"
 }
