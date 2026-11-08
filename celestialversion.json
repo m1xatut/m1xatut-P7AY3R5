@@ -3,6 +3,6 @@
   "Last update": "08-11-2026",
   "Change Log:": "",
   "#1": "Fixed Slowwalk release fade-out: state persistence prevents icon flash during exit animation",
-  "version": "4.4",
-  "changelog": "Rework loading intro: custom gamesense-styled Celestial text logo with transparent background"
+  "version": "4.5",
+  "changelog": "Clean logo: remove chromatic aberration fringes for crisp solid edges"
 }
