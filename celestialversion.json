@@ -2,8 +2,8 @@
   "Build": "Stable",
   "Last update": "08-11-2026",
   "Change Log:": "",
-  "#1": "Fixed Hitchance Override weapon class resolution & CS2 HC indicator",
-  "#2": "Fixed Dormant Aimbot logic & added CS2 DA indicator",
-  "version": "5.6",
-  "changelog": "Fixed Hitchance Override & CS2 HC indicator; 1:1 Dormant Aimbot implementation with CS2 DA indicator"
+  "#1": "Fixed get_celestial_weapon_class scope error in Replace Indicators",
+  "#2": "Clean CS2 indicators for HC and DA with zero runtime nil calls",
+  "version": "5.7",
+  "changelog": "Hotfixed get_celestial_weapon_class scoping for Replace Indicators"
 }
