@@ -1,11 +1,7 @@
 {
-  "Build": "Celestial v3.8",
+  "Build": "Celestial v3.9",
   "Last update": "08-11-2026",
   "Change Log:": "",
-  "#1": "Fixed native GameSense indicators: untouched on load, only hooked when feature is active",
-  "#2": "DT: clean white when ready, orange when charging",
-  "#3": "Body Aim & Safe Point: fixed active detection via native hotkeys and weapon aimtools",
-  "#4": "SLOW: triggered as Velocity Warning on damage velocity loss and on slowwalk with smooth fade animation",
-  "#5": "PING: updated to requested color #9FCA2B",
-  "#6": "DUCK: replaced left arrows with large circular progress gauge matching arrow dimensions"
+  "#1": "Slowwalk: pure white SLOW with smooth continuous breathing FadeIn-FadeOut while bind is held",
+  "#2": "Velocity Warning (SLOW): orange alert with dynamic circular recovery arc synchronized to velocity modifier recovery"
 }
