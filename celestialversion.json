@@ -1,9 +1,9 @@
 {
-  "Build": "Celestial v3.3",
+  "Build": "Celestial v3.4",
   "Last update": "08-11-2026",
   "Change Log:": "",
-  "#1": "Dropped the fire new White ICE Harlequin mascot (pure platinum chrome + crisp white halo glow)",
-  "#2": "Overhauled all visual branding assets across repo & loader",
-  "#3": "Zapped all leftover legacy Acantha references & streamlined asset downloader",
-  "#4": "Polished clantag engine and verified bulletproof cloud config sync"
+  "#1": "Added 'Replace GameSense indicators' in Visuals tab (ported clean CS2 badge style)",
+  "#2": "Custom vector badge HUD with Freestanding, Hitchance, Fake Duck arc, planted C4 timer & fatal alert, Double Tap exploit states",
+  "#3": "Smooth slide-in & fade animations with configurable position sliders",
+  "#4": "Seamless native indicator suppression & safe restore on unload"
 }
