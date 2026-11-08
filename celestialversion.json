@@ -1,8 +1,8 @@
 {
-  "Build": "Celestial v4.1",
+  "Build": "Stable",
   "Last update": "08-11-2026",
   "Change Log:": "",
   "#1": "Fixed Slowwalk release fade-out: state persistence prevents icon flash during exit animation",
-  "version": "4.5",
-  "changelog": "Clean logo: remove chromatic aberration fringes for crisp solid edges"
+  "version": "4.6",
+  "changelog": "Build name set to Stable; updated intro and watermark logos to gamesense CL style"
 }
