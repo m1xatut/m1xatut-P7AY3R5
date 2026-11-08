@@ -2,8 +2,8 @@
   "Build": "Stable",
   "Last update": "08-11-2026",
   "Change Log:": "",
-  "#1": "Fixed get_celestial_weapon_class scope error in Replace Indicators",
-  "#2": "Clean CS2 indicators for HC and DA with zero runtime nil calls",
-  "version": "5.7",
-  "changelog": "Hotfixed get_celestial_weapon_class scoping for Replace Indicators"
+  "#1": "Redesigned DT indicator: CS:2 twin-bullet icon + circular recharge arc gauge",
+  "#2": "Pure white colors for HC & DA indicators; 1:1 CS:2 target crosshair icon for HC",
+  "version": "5.8",
+  "changelog": "Updated CS2 Indicators: 1:1 DT twin-bullet icon and recharge progress gauge, white colors for HC & DA, standard-sized target crosshair for HC"
 }
