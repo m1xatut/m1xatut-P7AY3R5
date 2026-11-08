@@ -2,8 +2,8 @@
   "Build": "Stable",
   "Last update": "08-11-2026",
   "Change Log:": "",
-  "#1": "Fixed Indicators sub-tab nil reference error (replace_indicators field alignment)",
-  "#2": "Clean sub-tabs with dot indicators for Visuals & Miscellaneous",
-  "version": "5.5",
-  "changelog": "Fixed Indicators sub-tab crash; verified 0 undefined UI fields across all subtabs"
+  "#1": "Fixed Hitchance Override weapon class resolution & CS2 HC indicator",
+  "#2": "Fixed Dormant Aimbot logic & added CS2 DA indicator",
+  "version": "5.6",
+  "changelog": "Fixed Hitchance Override & CS2 HC indicator; 1:1 Dormant Aimbot implementation with CS2 DA indicator"
 }
