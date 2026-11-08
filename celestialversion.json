@@ -2,10 +2,8 @@
   "Build": "Stable",
   "Last update": "08-11-2026",
   "Change Log:": "",
-  "#1": "DoubleTap: lowered twin-bullets to exact text level + smooth motion interpolation for circle gauge recharge",
-  "#2": "DUCK: red color while crouching, turns white when fully crouched; 1:1 CS:2 sergeant chevron + circle gauge aligned to text level",
-  "#3": "Enlarged Headshot icon (18x16) moved to Body Aim (BA); Freestanding (FS) tactical corner-peek silhouette",
-  "#4": "1:1 CS:2 alignment & icons for all indicators (HC crosshair slash, MD center gap, C4 spark rays)",
-  "version": "6.1",
-  "changelog": "CS2 Indicators 1:1 Overhaul: lowered DT bullets, smooth circle animations, red-to-white DUCK, enlarged Headshot on BA, tactical FS, text-centered circles"
+  "#1": "Fixed Fake Duck timing & color transitions: accurate crouch-time detection (turns pure white once seated, red only during initial crouch descent)",
+  "#2": "Smooth progress circle fill for Fake Duck (100% full circle when seated)",
+  "version": "6.2",
+  "changelog": "Fixed Fake Duck readiness detection: red only while sitting down (~0.18s), instantly pure white upon reaching crouch position"
 }
