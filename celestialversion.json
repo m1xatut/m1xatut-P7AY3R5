@@ -2,9 +2,9 @@
   "Build": "Stable",
   "Last update": "08-11-2026",
   "Change Log:": "",
-  "#1": "Reworked Air stop to Enthusiasm logic with AS indicator & support for all weapons",
-  "#2": "Replaced Unsafe charge with Unsafe_Charge_In_Air (fixed duplicate in Rage Misc)",
-  "#3": "Reordered Miscellaneous items so new modules appear strictly ABOVE Warmup Helper",
-  "version": "5.3",
-  "changelog": "Air stop with AS indicator for all weapons; single clean Unsafe Charge in Aimbot; Misc items ordered above Warmup Helper"
+  "#1": "Added intuitive sub-tabs for Visuals (World, Indicators, Combat) with dot indicators",
+  "#2": "Added intuitive sub-tabs for Miscellaneous (Main, Movement, Extra) with dot indicators",
+  "#3": "Cleanly partitioned and organized all features across the new sub-tabs",
+  "version": "5.4",
+  "changelog": "Visuals & Misc sub-tabs added with balanced feature grouping & dot status indicators"
 }
