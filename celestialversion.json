@@ -3,6 +3,6 @@
   "Last update": "08-11-2026",
   "Change Log:": "",
   "#1": "Fixed Slowwalk release fade-out: state persistence prevents icon flash during exit animation",
-  "version": "4.6",
-  "changelog": "Build name set to Stable; updated intro and watermark logos to gamesense CL style"
+  "version": "4.7",
+  "changelog": "Watermark logo: transparent background, mathematically centered CL glyphs"
 }
