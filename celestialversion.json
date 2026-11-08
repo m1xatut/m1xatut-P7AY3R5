@@ -2,9 +2,8 @@
   "Build": "Stable",
   "Last update": "08-11-2026",
   "Change Log:": "",
-  "#1": "Added intuitive sub-tabs for Visuals (World, Indicators, Combat) with dot indicators",
-  "#2": "Added intuitive sub-tabs for Miscellaneous (Main, Movement, Extra) with dot indicators",
-  "#3": "Cleanly partitioned and organized all features across the new sub-tabs",
-  "version": "5.4",
-  "changelog": "Visuals & Misc sub-tabs added with balanced feature grouping & dot status indicators"
+  "#1": "Fixed Indicators sub-tab nil reference error (replace_indicators field alignment)",
+  "#2": "Clean sub-tabs with dot indicators for Visuals & Miscellaneous",
+  "version": "5.5",
+  "changelog": "Fixed Indicators sub-tab crash; verified 0 undefined UI fields across all subtabs"
 }
