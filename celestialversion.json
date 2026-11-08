@@ -2,9 +2,7 @@
   "Build": "Stable",
   "Last update": "08-11-2026",
   "Change Log:": "",
-  "#1": "Ghost Style: removed opaque pill backgrounds (transparent by default + added custom pill background color picker)",
-  "#2": "Double Tap colors: red when recharging, indicator accent color when ready (applied to both Ghost and Default styles)",
-  "#3": "Fixed Default Style scope offset: DT, HS, and all binds now shift synchronously with the script name and state when scoped",
-  "version": "6.4",
-  "changelog": "Crosshair Indicators: transparent Ghost pills + background color picker, DT recharge color tied to indicator accent (Ghost & Default), fixed DT scope shift in Default style"
+  "#1": "Double Tap: synchronized recharge timing and color change with the crosshair indicator and cheat exploit engine (zero visual lag)",
+  "version": "6.5",
+  "changelog": "Synchronized Double Tap recharge timing: removed artificial interpolation lag, instant readiness and color switch in sync with crosshair indicators"
 }
