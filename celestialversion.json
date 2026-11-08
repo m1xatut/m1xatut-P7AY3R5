@@ -2,7 +2,7 @@
   "Build": "Stable",
   "Last update": "08-11-2026",
   "Change Log:": "",
-  "#1": "Fixed Slowwalk release fade-out: state persistence prevents icon flash during exit animation",
-  "version": "5.0",
-  "changelog": "Complete rework of AI Peek: 1:1 clean port from Bounty with optimal damage raycasting & auto-peek assistance"
+  "#1": "Ported features from Enthusiasm: Scout in-air quick stop, DT cycle optimizer, Anti-backstab, Block shooting in menu, Quick switch, Anti-crasher",
+  "version": "5.1",
+  "changelog": "Cut out legacy Air autostop; added 6 clean modules from Enthusiasm with correct menu tabs"
 }
