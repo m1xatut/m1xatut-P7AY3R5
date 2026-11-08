@@ -1,9 +1,11 @@
 {
-  "Build": "Celestial v3.7",
+  "Build": "Celestial v3.8",
   "Last update": "08-11-2026",
   "Change Log:": "",
-  "#1": "1:1 Antarctica Reborn GameSense widgets indicators overhaul",
-  "#2": "Removed manual Pos X / Pos Y sliders and dark box backgrounds",
-  "#3": "Exact Antarctica '+' engine font with built-in unicode icons and soft gradient fade",
-  "#4": "Full support for FS, HC, DUCK arc, C4 timer with FATAL, SLOW, MD, DT charging/ready, PING"
+  "#1": "Fixed native GameSense indicators: untouched on load, only hooked when feature is active",
+  "#2": "DT: clean white when ready, orange when charging",
+  "#3": "Body Aim & Safe Point: fixed active detection via native hotkeys and weapon aimtools",
+  "#4": "SLOW: triggered as Velocity Warning on damage velocity loss and on slowwalk with smooth fade animation",
+  "#5": "PING: updated to requested color #9FCA2B",
+  "#6": "DUCK: replaced left arrows with large circular progress gauge matching arrow dimensions"
 }
