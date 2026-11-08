@@ -1,9 +1,9 @@
 {
-  "Build": "Celestial v3.4",
+  "Build": "Celestial v3.5",
   "Last update": "08-11-2026",
   "Change Log:": "",
-  "#1": "Added 'Replace GameSense indicators' in Visuals tab (ported clean CS2 badge style)",
-  "#2": "Custom vector badge HUD with Freestanding, Hitchance, Fake Duck arc, planted C4 timer & fatal alert, Double Tap exploit states",
-  "#3": "Smooth slide-in & fade animations with configurable position sliders",
-  "#4": "Seamless native indicator suppression & safe restore on unload"
+  "#1": "Reworked 'Replace GameSense indicators' to 1:1 authentic CS2 style",
+  "#2": "Pixel-perfect 14px compact badges (solid dark container with 1px border & top highlight)",
+  "#3": "Ported exact mini icons from CS2: PING signal bars, DT double chevron, C4 brick with red LED & site countdown",
+  "#4": "Added engine-level 'indicator' event hook to completely suppress native cheat text"
 }
