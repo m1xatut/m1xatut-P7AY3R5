@@ -1,9 +1,9 @@
 {
-  "Build": "Celestial v3.5",
+  "Build": "Celestial v3.6",
   "Last update": "08-11-2026",
   "Change Log:": "",
-  "#1": "Reworked 'Replace GameSense indicators' to 1:1 authentic CS2 style",
-  "#2": "Pixel-perfect 14px compact badges (solid dark container with 1px border & top highlight)",
-  "#3": "Ported exact mini icons from CS2: PING signal bars, DT double chevron, C4 brick with red LED & site countdown",
-  "#4": "Added engine-level 'indicator' event hook to completely suppress native cheat text"
+  "#1": "Clean overhaul of Replace GameSense indicators (scrapped all solid dark boxes)",
+  "#2": "1:1 Antarctica & CS2 style: clean vector icons on left, crisp bold text on right, soft fade shadow",
+  "#3": "Accurate indicators for FS, HC, DUCK arc, B-28.9s with FATAL alert, SLOW, MD, DT, PING",
+  "#4": "Seamless native indicator suppression via engine event hook"
 }
