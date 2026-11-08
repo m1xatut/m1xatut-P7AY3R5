@@ -1,9 +1,9 @@
 {
-  "Build": "Celestial v3.6",
+  "Build": "Celestial v3.7",
   "Last update": "08-11-2026",
   "Change Log:": "",
-  "#1": "Clean overhaul of Replace GameSense indicators (scrapped all solid dark boxes)",
-  "#2": "1:1 Antarctica & CS2 style: clean vector icons on left, crisp bold text on right, soft fade shadow",
-  "#3": "Accurate indicators for FS, HC, DUCK arc, B-28.9s with FATAL alert, SLOW, MD, DT, PING",
-  "#4": "Seamless native indicator suppression via engine event hook"
+  "#1": "1:1 Antarctica Reborn GameSense widgets indicators overhaul",
+  "#2": "Removed manual Pos X / Pos Y sliders and dark box backgrounds",
+  "#3": "Exact Antarctica '+' engine font with built-in unicode icons and soft gradient fade",
+  "#4": "Full support for FS, HC, DUCK arc, C4 timer with FATAL, SLOW, MD, DT charging/ready, PING"
 }
