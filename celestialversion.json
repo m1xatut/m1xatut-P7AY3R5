@@ -1,9 +1,9 @@
 {
-  "Build": "Celestial v3.2",
+  "Build": "Celestial v3.3",
   "Last update": "08-11-2026",
   "Change Log:": "",
-  "#1": "Rebranded from Acantha to Celestial & fresh cyber-sigilism UI",
-  "#2": "Bypassed anti-bot checks + instant cloud config sync (3 slots)",
-  "#3": "Hardened HWID security — locked down against leaking & dumping",
-  "#4": "Overhauled all clantags, styled fonts & trash-talk killsays"
+  "#1": "Dropped the fire new White ICE Harlequin mascot (pure platinum chrome + crisp white halo glow)",
+  "#2": "Overhauled all visual branding assets across repo & loader",
+  "#3": "Zapped all leftover legacy Acantha references & streamlined asset downloader",
+  "#4": "Polished clantag engine and verified bulletproof cloud config sync"
 }
