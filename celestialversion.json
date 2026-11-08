@@ -2,8 +2,9 @@
   "Build": "Stable",
   "Last update": "08-11-2026",
   "Change Log:": "",
-  "#1": "Dormant Aimbot (DA): 1:1 stopwatch timer icon with filled dormant wedge sector from screenshot",
-  "#2": "Full Color Customization: in-menu color customization for every indicator (including ready/charging, safe/fatal, and custom tints)",
-  "version": "6.3",
-  "changelog": "CS2 Indicators: 1:1 DA stopwatch icon with dormant sector, full menu color customization for all indicators and dual-state transitions"
+  "#1": "Ghost Style: removed opaque pill backgrounds (transparent by default + added custom pill background color picker)",
+  "#2": "Double Tap colors: red when recharging, indicator accent color when ready (applied to both Ghost and Default styles)",
+  "#3": "Fixed Default Style scope offset: DT, HS, and all binds now shift synchronously with the script name and state when scoped",
+  "version": "6.4",
+  "changelog": "Crosshair Indicators: transparent Ghost pills + background color picker, DT recharge color tied to indicator accent (Ghost & Default), fixed DT scope shift in Default style"
 }
