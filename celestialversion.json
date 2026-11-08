@@ -1,7 +1,7 @@
 {
-  "Build": "Celestial v3.9",
+  "Build": "Celestial v4.0",
   "Last update": "08-11-2026",
   "Change Log:": "",
-  "#1": "Slowwalk: pure white SLOW with smooth continuous breathing FadeIn-FadeOut while bind is held",
-  "#2": "Velocity Warning (SLOW): orange alert with dynamic circular recovery arc synchronized to velocity modifier recovery"
+  "#1": "Slowwalk: removed warning triangle icon, pure white text with continuous breathing animation",
+  "#2": "Velocity Slow: removed circular gauge, implemented dynamic Red -> Orange -> Yellow color transition as velocity recovers"
 }
