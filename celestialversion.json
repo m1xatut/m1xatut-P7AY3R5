@@ -3,6 +3,6 @@
   "Last update": "08-11-2026",
   "Change Log:": "",
   "#1": "Fixed Slowwalk release fade-out: state persistence prevents icon flash during exit animation",
-  "version": "4.7",
-  "changelog": "Watermark logo: transparent background, mathematically centered CL glyphs"
+  "version": "4.8",
+  "changelog": "Updated startup audio to CelestialTechnologies.wav; fixed admin panel duplicate key creation on refresh"
 }
