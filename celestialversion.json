@@ -2,8 +2,8 @@
   "Build": "Stable",
   "Last update": "08-11-2026",
   "Change Log:": "",
-  "#1": "Redesigned DT indicator: CS:2 twin-bullet icon + circular recharge arc gauge",
-  "#2": "Pure white colors for HC & DA indicators; 1:1 CS:2 target crosshair icon for HC",
-  "version": "5.8",
-  "changelog": "Updated CS2 Indicators: 1:1 DT twin-bullet icon and recharge progress gauge, white colors for HC & DA, standard-sized target crosshair for HC"
+  "#1": "Updated CS:2 / CS:GO native symbols for all indicators (Headshot for FS, Target crosshairs for HC/MD, Duck chevron, Shield for SP, Stopwatch for OS, Signal bars for PING)",
+  "#2": "Removed circular progress arc from DT indicator; kept 1:1 tilted twin-bullet icon",
+  "version": "5.9",
+  "changelog": "CS2 Indicators: authentic CS:GO/CS2 icons for all indicators, headshot killfeed texture for FS, removed circular gauge from DT, white colors for HC & DA"
 }
