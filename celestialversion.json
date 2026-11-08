@@ -2,7 +2,9 @@
   "Build": "Stable",
   "Last update": "08-11-2026",
   "Change Log:": "",
-  "#1": "Ported features cleanly integrated into native Celestial tabs (Ragebot, Anti-Aim Settings, Misc)",
-  "version": "5.2",
-  "changelog": "Scout in-air stop & DT cycle optimizer in Ragebot->Aimbot, Avoid backstab in Anti-Aim->Settings, Block shoot, Quick switch & Anti-crasher in Misc"
+  "#1": "Reworked Air stop to Enthusiasm logic with AS indicator & support for all weapons",
+  "#2": "Replaced Unsafe charge with Unsafe_Charge_In_Air (fixed duplicate in Rage Misc)",
+  "#3": "Reordered Miscellaneous items so new modules appear strictly ABOVE Warmup Helper",
+  "version": "5.3",
+  "changelog": "Air stop with AS indicator for all weapons; single clean Unsafe Charge in Aimbot; Misc items ordered above Warmup Helper"
 }
