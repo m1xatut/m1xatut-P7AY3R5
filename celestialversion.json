@@ -3,6 +3,6 @@
   "Last update": "08-11-2026",
   "Change Log:": "",
   "#1": "Double Tap: synchronized recharge timing and color change with the crosshair indicator and cheat exploit engine (zero visual lag)",
-  "version": "6.7",
-  "changelog": "v6.7:\n- Added In-Air Autostop (AS) indicator to Replace Indicators with 1:1 pure white wing icon (no outline)\n- Added Predict (PREDICT) indicator to Replace Indicators with 1:1 slashed eye icon\n- Added color customization for both Autostop and Predict under Replace Indicators\n- Restored signature concentric circles Glow visualization for Enemy Prediction with smooth line"
+  "version": "6.8",
+  "changelog": "v6.8:\n- Fixed crash in Replace Indicators on line 11822 (attempt to index local 'col' a nil value)\n- Defined as_col and pe_col color retrieval in on_paint\n- Added defensive nil fallback for indicator color table"
 }
