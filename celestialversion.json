@@ -1,7 +1,6 @@
 {
-  "Build": "Celestial v4.0",
+  "Build": "Celestial v4.1",
   "Last update": "08-11-2026",
   "Change Log:": "",
-  "#1": "Slowwalk: removed warning triangle icon, pure white text with continuous breathing animation",
-  "#2": "Velocity Slow: removed circular gauge, implemented dynamic Red -> Orange -> Yellow color transition as velocity recovers"
+  "#1": "Fixed Slowwalk release fade-out: state persistence prevents icon flash during exit animation"
 }
