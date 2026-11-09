@@ -2,7 +2,7 @@
   "Build": "Stable",
   "Last update": "09-11-2026",
   "Change Log:": "",
-  "#1": "Fixed dynamic sub-options visibility across all Visuals modules by hooking ui.set_callback into Item event bus",
-  "version": "6.9.1",
-  "changelog": "v6.9.1 Hotfix:\n- Fixed dynamic sub-options visibility across all Visuals modules (Cascade Light, Fog Override, World Color, Remap Textures, Custom Healthbar, ScoreBoard Equip) via non-destructive Item callback detour\n- Fixed Wall ambient light sub-options (Model ambient min, Bloom scale, Auto exposure) incorrectly visible when unchecked\n- Fixed Fog Override: hidden stray Skybox fog checkbox, corrected distance scale factor (300k -> 3k), and linked Fog density slider\n- Fixed Remap Textures: wrapped client.delay_call in closures to prevent nil matsheet errors\n- Added null-safety guards in Custom Healthbar paint callback"
+  "#1": "Redesigned Hotkeys to modern pill style & added Spectator List with Steam avatars",
+  "version": "6.9.2",
+  "changelog": "v6.9.2 Update:\n- Crosshair Indicator: Defensive DT status color now pulls directly from main indicator accent color\n- Hotkeys Window: Redesigned into modern detached capsule pill layout with animated toggle switch badges; added Style combobox (Modern / Classic)\n- Spectator List: Added brand-new Spectator List with Steam avatar badges, customizable draggable window, ruler snapping, and modern capsule pills"
 }
