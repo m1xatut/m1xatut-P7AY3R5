@@ -2,7 +2,7 @@
   "Build": "Stable",
   "Last update": "09-11-2026",
   "Change Log:": "",
-  "#1": "Redesigned Hotkeys to modern pill style & added Spectator List with Steam avatars",
-  "version": "6.9.2",
-  "changelog": "v6.9.2 Update:\n- Crosshair Indicator: Defensive DT status color now pulls directly from main indicator accent color\n- Hotkeys Window: Redesigned into modern detached capsule pill layout with animated toggle switch badges; added Style combobox (Modern / Classic)\n- Spectator List: Added brand-new Spectator List with Steam avatar badges, customizable draggable window, ruler snapping, and modern capsule pills"
+  "#1": "Reworked Hotkeys, Bomb Indicator, Velocity Warning, Watermark, Break LC, and unified Anim Breakers in Misc",
+  "version": "6.9.3",
+  "changelog": "v6.9.3 Update:\n- Hotkeys: Removed Classic style; added modern toggle button badges, Min. Damage value display, and Text / Buttons / Background color pickers\n- Bomb Indicator: Complete 1:1 rework with C4 phone detonator icon, Site / Damage stats, and circular progress timer\n- Velocity Warning: Redesigned into matching modern capsule style with speedometer icon and circular modifier ring\n- Break LC Indicator: Added new indicator with network pulse icon, LC status, and circular ticks ring\n- Default Watermark: Reworked 1:1 with reference — CL logo badge, clean seamless segments, and fixed colorpicker visibility bug\n- Animation Breakers: Unified all animation breaking modes into Misc (Freeze, Slide, Never slide) and cleaned up AA"
 }
