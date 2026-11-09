@@ -2,9 +2,9 @@
     "Build": "Stable",
     "Last update": "10-11-2026",
     "Change Log:": "",
-    "#1": "Fixed draw_capsule_fill nil crash in Spectator List and Keybinds",
-    "#2": "Restored Expiremental watermark colorpickers",
-    "#3": "Fixed subtab button responsiveness and hitsound check sound label",
-    "version": "6.9.5",
-    "changelog": "v6.9.5 Hotfix:\n- Fixed global draw_capsule_fill nil error when toggling Spectator List or Keybinds\n- Restored colorpickers for Expiremental watermark style\n- Fixed menu_logic subtab event dispatch and button feedback\n- Cleaned up hitsound test button label and added console logs"
+    "#1": "Reworked Break LC indicator to 1:1 in-world rating style (bad/ok/good/nice/great + ticks)",
+    "#2": "Fixed unclickable buttons and checkboxes in subtabs by balancing menu columns",
+    "#3": "Fixed watermark colorpickers visibility for Default and Expiremental styles",
+    "version": "6.9.6",
+    "changelog": "v6.9.6 Update:\n- Break LC Indicator: Complete rework to in-world 3D text above players (bad, ok, good, nice, great + ticks) matching reference\n- Menu Columns: Balanced left and right groupboxes across all subtabs, eliminating GameSense container input clipping for buttons and bottom controls\n- Buttons: Wrapped all buttons in menu.new and linked to menu_logic for proper visibility state\n- Watermark: Fixed colorpicker visibility logic between Default and Expiremental styles"
 }
