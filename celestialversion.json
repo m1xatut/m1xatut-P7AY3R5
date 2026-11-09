@@ -4,5 +4,5 @@
   "Change Log:": "",
   "#1": "Double Tap: synchronized recharge timing and color change with the crosshair indicator and cheat exploit engine (zero visual lag)",
   "version": "6.9",
-  "changelog": "v6.9 Hotfix:\n- Fixed Lua 200 local variable limit in _MAIN_ function by encapsulating sub-modules in isolated function scopes\n- Anti-Aim Builder Overhaul: Roll AA (-50 to 50), Defensive Pitch Modes, Defensive Roll, 3-Way Jitter, Animation Breakers, Anti-Bruteforce\n- Visuals modules: Custom Healthbar, ScoreBoard Equip, Cascade Light, World Color Changer, Fog Override, Remap Textures\n- Misc module: Block server chat advertisements"
+  "changelog": "v6.9 Release:\n- Fixed runtime nil call error on line 26419 by adding explicit semicolon statement separators to all sub-module closures\n- Fixed intro animation initialization and loader execution\n- Anti-Aim Builder Overhaul: Roll AA (-50 to 50), Defensive Pitch Modes, Defensive Roll, 3-Way Jitter, Animation Breakers, Anti-Bruteforce\n- Visuals modules: Custom Healthbar, ScoreBoard Equip, Cascade Light, World Color Changer, Fog Override, Remap Textures\n- Misc module: Block server chat advertisements"
 }
