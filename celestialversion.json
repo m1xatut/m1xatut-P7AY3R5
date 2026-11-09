@@ -1,8 +1,8 @@
 {
   "Build": "Stable",
-  "Last update": "08-11-2026",
+  "Last update": "09-11-2026",
   "Change Log:": "",
-  "#1": "Double Tap: synchronized recharge timing and color change with the crosshair indicator and cheat exploit engine (zero visual lag)",
-  "version": "6.9",
-  "changelog": "v6.9 Release:\n- Fixed new_key scope in ScoreBoard Equip and made available globally across _MAIN_\n- Fixed statement isolation across all sub-module closures with explicit semicolons\n- Anti-Aim Builder Overhaul: Roll AA (-50 to 50), Defensive Pitch Modes, Defensive Roll, 3-Way Jitter, Animation Breakers, Anti-Bruteforce\n- Visuals modules: Custom Healthbar, ScoreBoard Equip, Cascade Light, World Color Changer, Fog Override, Remap Textures\n- Misc module: Block server chat advertisements"
+  "#1": "Fixed dynamic sub-options visibility across all Visuals modules by hooking ui.set_callback into Item event bus",
+  "version": "6.9.1",
+  "changelog": "v6.9.1 Hotfix:\n- Fixed dynamic sub-options visibility across all Visuals modules (Cascade Light, Fog Override, World Color, Remap Textures, Custom Healthbar, ScoreBoard Equip) via non-destructive Item callback detour\n- Fixed Wall ambient light sub-options (Model ambient min, Bloom scale, Auto exposure) incorrectly visible when unchecked\n- Fixed Fog Override: hidden stray Skybox fog checkbox, corrected distance scale factor (300k -> 3k), and linked Fog density slider\n- Fixed Remap Textures: wrapped client.delay_call in closures to prevent nil matsheet errors\n- Added null-safety guards in Custom Healthbar paint callback"
 }
