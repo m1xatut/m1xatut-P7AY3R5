@@ -1,8 +1,10 @@
 {
-  "Build": "Stable",
-  "Last update": "09-11-2026",
-  "Change Log:": "",
-  "#1": "Fixed nil value indexing crash in break_lc indicator on load",
-  "version": "6.9.4",
-  "changelog": "v6.9.4 Hotfix:\n- Fixed crash on script load in Break LC indicator (attempt to index field visuals)\n- Added null-safety check for ref.enabled in Break LC indicator"
+    "Build": "Stable",
+    "Last update": "10-11-2026",
+    "Change Log:": "",
+    "#1": "Fixed draw_capsule_fill nil crash in Spectator List and Keybinds",
+    "#2": "Restored Expiremental watermark colorpickers",
+    "#3": "Fixed subtab button responsiveness and hitsound check sound label",
+    "version": "6.9.5",
+    "changelog": "v6.9.5 Hotfix:\n- Fixed global draw_capsule_fill nil error when toggling Spectator List or Keybinds\n- Restored colorpickers for Expiremental watermark style\n- Fixed menu_logic subtab event dispatch and button feedback\n- Cleaned up hitsound test button label and added console logs"
 }
