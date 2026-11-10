@@ -2,10 +2,10 @@
     "Build": "Stable",
     "Last update": "10-11-2026",
     "Change Log:": "",
-    "#1": "fixed unpress charge reset",
-    "#2": "real ticks on dt unpress",
-    "#3": "god & ideal tier naming",
+    "#1": "instant trigger on unpress",
+    "#2": "accurate charge ticks logic",
+    "#3": "defensive shift tickbase fix",
     "#4": "smooth 0.66s indicator fade",
-    "version": "6.9.20",
-    "changelog": "v6.9.20:\n- fixed unpress charge reset bug\n- real ticks measured on dt unpress\n- god and ideal ratings naming\n- smooth 0.66s indicator fadeout"
+    "version": "6.9.21",
+    "changelog": "v6.9.21:\n- instant trigger on dt unpress\n- accurate charge ticks logic\n- defensive shift tickbase fix\n- smooth 0.66s indicator fadeout"
 }
