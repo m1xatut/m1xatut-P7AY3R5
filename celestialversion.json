@@ -2,10 +2,10 @@
     "Build": "Stable",
     "Last update": "10-11-2026",
     "Change Log:": "",
-    "#1": "Ported exact 1:1 animated gradient line directly from Acantha.lua",
-    "#2": "Restored original general.line structure and paint_ui update loop",
-    "#3": "Synchronized menu color updates inside paint_ui callback",
-    "#4": "Centered Socials text and desktop browser links in Other",
-    "version": "6.9.16",
-    "changelog": "v6.9.16 Update:\n- Line: Ported exact 1:1 gradient separator line directly from Acantha.lua\n- UI: Restored original general.line declaration and paint_ui update routine\n- Sync: Synchronized paint_ui update_welcome_text callback\n- Layout: Perfect placement in Other section above Socials"
+    "#1": "Ported Break LC Indicator logic 1:1 from angelwings Neverlose to Gamesense",
+    "#2": "Fixed exploit tickbase tracking with peak shift measurement and DT discharge delta",
+    "#3": "Accurate ratings (failed, bad, ok, good, nice, ideal lc, angel lc) and 0.66s timer",
+    "#4": "Harmonized secondary ticks color and capsule styling with custom color picker",
+    "version": "6.9.17",
+    "changelog": "v6.9.17 Update:\n- Break LC: Ported 1:1 Break LC Indicator logic from angelwings Neverlose to Gamesense\n- Tickbase: Real-time defensive shift detection with peak ticks and DT discharge delta\n- Ratings: Accurate rating intervals (failed, bad, ok, good, nice, ideal lc, angel lc) with 0.66s display timer and smooth fade\n- Visuals: Full color picker support for secondary ticks and draggable window snapping"
 }
