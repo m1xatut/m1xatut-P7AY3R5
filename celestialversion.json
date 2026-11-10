@@ -2,10 +2,10 @@
     "Build": "Release",
     "Last update": "11-11-2026",
     "Change Log:": "",
-    "#1": "console misslog integration",
-    "#2": "auto resolver reason detection",
-    "#3": "fixed empty box in default watermark",
-    "#4": "adaptive watermark badge sizing",
-    "version": "6.9.30",
-    "changelog": "v6.9.30:\n- console misslog integration\n- auto resolver reason detection\n- fixed empty box in default watermark\n- adaptive watermark badge sizing"
+    "#1": "bomb indicator complete redesign",
+    "#2": "custom text & background colorpickers",
+    "#3": "pixel perfect detonator vector icon",
+    "#4": "smooth circular timer & dynamic damage",
+    "version": "6.9.31",
+    "changelog": "v6.9.31:\n- bomb indicator complete redesign\n- custom text & background colorpickers\n- pixel perfect detonator vector icon\n- smooth circular timer & dynamic damage"
 }
