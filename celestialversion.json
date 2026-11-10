@@ -2,10 +2,10 @@
     "Build": "Release",
     "Last update": "11-11-2026",
     "Change Log:": "",
-    "#1": "bomb indicator complete redesign",
-    "#2": "custom text & background colorpickers",
-    "#3": "pixel perfect detonator vector icon",
-    "#4": "smooth circular timer & dynamic damage",
-    "version": "6.9.31",
-    "changelog": "v6.9.31:\n- bomb indicator complete redesign\n- custom text & background colorpickers\n- pixel perfect detonator vector icon\n- smooth circular timer & dynamic damage"
+    "#1": "updated all default cloud presets",
+    "#2": "synced latest user configurations",
+    "#3": "integrated 6 desktop presets",
+    "#4": "100% production ready release",
+    "version": "6.9.32",
+    "changelog": "v6.9.32:\n- updated all default cloud presets\n- synced latest user configurations\n- integrated 6 desktop presets\n- 100% production ready release"
 }
