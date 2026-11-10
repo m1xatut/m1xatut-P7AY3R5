@@ -2,10 +2,10 @@
     "Build": "Stable",
     "Last update": "11-11-2026",
     "Change Log:": "",
-    "#1": "custom skeet icons in alt ui",
-    "#2": "crisp 32px alpha textures",
-    "#3": "smooth dpi scale icon resizing",
-    "#4": "dynamic hover tint rendering",
-    "version": "6.9.24",
-    "changelog": "v6.9.24:\n- custom skeet icons in alt ui\n- crisp 32px alpha textures\n- smooth dpi scale icon resizing\n- dynamic hover tint rendering"
+    "#1": "removed active blue accent bar",
+    "#2": "switched to smooth font with shadow",
+    "#3": "improved vertical tab spacing",
+    "#4": "clean title case tab labels",
+    "version": "6.9.25",
+    "changelog": "v6.9.25:\n- removed active blue accent bar\n- switched to smooth font with shadow\n- improved vertical tab spacing\n- clean title case tab labels"
 }
