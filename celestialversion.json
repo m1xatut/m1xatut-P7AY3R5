@@ -1,11 +1,11 @@
 {
-    "Build": "Stable",
+    "Build": "Release",
     "Last update": "11-11-2026",
     "Change Log:": "",
-    "#1": "added ai peek bind key",
-    "#2": "inline hotkey element in menu",
-    "#3": "integrated with keybinds list",
-    "#4": "smooth state toggle & hold",
-    "version": "6.9.27",
-    "changelog": "v6.9.27:\n- added ai peek bind key\n- inline hotkey element in menu\n- integrated with keybinds list\n- smooth state toggle & hold"
+    "#1": "release candidate audit completed",
+    "#2": "removed legacy debug console spam",
+    "#3": "verified lua syntax & root locals",
+    "#4": "100% stable ready for release",
+    "version": "6.9.28",
+    "changelog": "v6.9.28:\n- release candidate audit completed\n- removed legacy debug console spam\n- verified lua syntax & root locals\n- 100% stable ready for release"
 }
