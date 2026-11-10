@@ -1,11 +1,11 @@
 {
     "Build": "Stable",
-    "Last update": "10-11-2026",
+    "Last update": "11-11-2026",
     "Change Log:": "",
-    "#1": "instant trigger on unpress",
-    "#2": "restored screen drag & snap",
-    "#3": "accurate charge ticks logic",
-    "#4": "smooth 0.66s indicator fade",
-    "version": "6.9.22",
-    "changelog": "v6.9.22:\n- instant trigger on dt unpress\n- restored screen drag & snap\n- accurate charge ticks logic\n- smooth 0.66s indicator fadeout"
+    "#1": "added alternative ui",
+    "#2": "custom tab glyphs & labels",
+    "#3": "gamesense outer bevel frame",
+    "#4": "auto hide native categories",
+    "version": "6.9.23",
+    "changelog": "v6.9.23:\n- added alternative ui\n- custom tab glyphs & labels\n- gamesense outer bevel frame\n- auto hide native categories"
 }
