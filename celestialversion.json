@@ -2,10 +2,10 @@
     "Build": "Stable",
     "Last update": "10-11-2026",
     "Change Log:": "",
-    "#1": "Fixed gradient divider bar rendering in Other section",
-    "#2": "Switched to standard continuous baseline glyph with moving gradient",
-    "#3": "Initialized static bar for instant visibility on startup",
-    "#4": "Centered Socials text and desktop browser links",
-    "version": "6.9.15",
-    "changelog": "v6.9.15 Update:\n- Divider: Fixed gradient divider line rendering between Change Log and Socials\n- Visuals: Implemented continuous animated gradient bar matching exact reference\n- Init: Ensured instant rendering upon script initialization\n- UI: Perfect spacing and layout in Other section"
+    "#1": "Ported exact 1:1 animated gradient line directly from Acantha.lua",
+    "#2": "Restored original general.line structure and paint_ui update loop",
+    "#3": "Synchronized menu color updates inside paint_ui callback",
+    "#4": "Centered Socials text and desktop browser links in Other",
+    "version": "6.9.16",
+    "changelog": "v6.9.16 Update:\n- Line: Ported exact 1:1 gradient separator line directly from Acantha.lua\n- UI: Restored original general.line declaration and paint_ui update routine\n- Sync: Synchronized paint_ui update_welcome_text callback\n- Layout: Perfect placement in Other section above Socials"
 }
