@@ -2,10 +2,10 @@
     "Build": "Stable",
     "Last update": "11-11-2026",
     "Change Log:": "",
-    "#1": "clean autobuy primary list",
-    "#2": "renamed scout to ssg 08",
-    "#3": "trimmed grenades list",
-    "#4": "cost based backup sync",
-    "version": "6.9.26",
-    "changelog": "v6.9.26:\n- clean autobuy primary list\n- renamed scout to ssg 08\n- trimmed grenades list\n- cost based backup sync"
+    "#1": "added ai peek bind key",
+    "#2": "inline hotkey element in menu",
+    "#3": "integrated with keybinds list",
+    "#4": "smooth state toggle & hold",
+    "version": "6.9.27",
+    "changelog": "v6.9.27:\n- added ai peek bind key\n- inline hotkey element in menu\n- integrated with keybinds list\n- smooth state toggle & hold"
 }
