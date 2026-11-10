@@ -2,10 +2,10 @@
     "Build": "Release",
     "Last update": "11-11-2026",
     "Change Log:": "",
-    "#1": "added print in console hitlogs",
-    "#2": "custom prefix color picker",
-    "#3": "clean dual color console log",
-    "#4": "zero newline prefix chaining",
-    "version": "6.9.29",
-    "changelog": "v6.9.29:\n- added print in console hitlogs\n- custom prefix color picker\n- clean dual color console log\n- zero newline prefix chaining"
+    "#1": "console misslog integration",
+    "#2": "auto resolver reason detection",
+    "#3": "fixed empty box in default watermark",
+    "#4": "adaptive watermark badge sizing",
+    "version": "6.9.30",
+    "changelog": "v6.9.30:\n- console misslog integration\n- auto resolver reason detection\n- fixed empty box in default watermark\n- adaptive watermark badge sizing"
 }
