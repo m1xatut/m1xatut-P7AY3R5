@@ -2,10 +2,10 @@
     "Build": "Stable",
     "Last update": "10-11-2026",
     "Change Log:": "",
-    "#1": "Restored classic clean info style in Other section",
-    "#2": "Added centered animated gradient Socials header & underline bar under mascot",
-    "#3": "Kept all config management buttons under Cloud presets in left column",
-    "#4": "YouTube & Discord open default PC desktop browser",
-    "version": "6.9.12",
-    "changelog": "v6.9.12 Update:\n- UI: Restored original classic minimalist style for user info and changelog in Other\n- Socials: Added centered animated gradient 'Socials' text and gradient underline bar under mascot in Fake lag\n- Configs: Kept config action and cloud slot buttons under Cloud presets in left column"
+    "#1": "Fixed startup crash on presets_settings_label",
+    "#2": "Hardened all UI label updates with safety guards",
+    "#3": "Socials gradient & underline bar under mascot",
+    "#4": "Restored classic clean info style in Other section",
+    "version": "6.9.13",
+    "changelog": "v6.9.13 Update:\n- Fix: Resolved startup nil index crash on presets_settings_label\n- Safety: Added nil safety checks to all general UI label update routines\n- UI: Restored original classic minimalist style for user info and changelog in Other\n- Socials: Centered animated gradient 'Socials' text and gradient underline bar under mascot in Fake lag\n- Configs: Kept config action and cloud slot buttons under Cloud presets in left column"
 }
