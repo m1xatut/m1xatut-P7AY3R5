@@ -2,10 +2,10 @@
     "Build": "Stable",
     "Last update": "10-11-2026",
     "Change Log:": "",
-    "#1": "Ported Break LC Indicator logic 1:1 from angelwings Neverlose to Gamesense",
-    "#2": "Fixed exploit tickbase tracking with peak shift measurement and DT discharge delta",
-    "#3": "Accurate ratings (failed, bad, ok, good, nice, ideal lc, angel lc) and 0.66s timer",
-    "#4": "Harmonized secondary ticks color and capsule styling with custom color picker",
-    "version": "6.9.17",
-    "changelog": "v6.9.17 Update:\n- Break LC: Ported 1:1 Break LC Indicator logic from angelwings Neverlose to Gamesense\n- Tickbase: Real-time defensive shift detection with peak ticks and DT discharge delta\n- Ratings: Accurate rating intervals (failed, bad, ok, good, nice, ideal lc, angel lc) with 0.66s display timer and smooth fade\n- Visuals: Full color picker support for secondary ticks and draggable window snapping"
+    "#1": "\u043f\u043e\u0444\u0438\u043a\u0441\u0438\u043b \u043b\u043e\u0436\u043d\u044b\u0439 failed",
+    "#2": "\u0440\u0435\u0430\u043b\u044c\u043d\u044b\u0435 \u0442\u0438\u043a\u0438 \u043e\u0442\u0436\u0430\u0442\u0438\u044f",
+    "#3": "\u0440\u0435\u0439\u0442\u044b god \u0438 ideal",
+    "#4": "\u043f\u043b\u0430\u0432\u043d\u044b\u0439 fade 0.66s",
+    "version": "6.9.18",
+    "changelog": "v6.9.18:\n- \u0444\u0438\u043a\u0441 \u043b\u043e\u0436\u043d\u043e\u0433\u043e failed\n- \u0440\u0435\u0430\u043b\u044c\u043d\u044b\u0435 \u0442\u0438\u043a\u0438 \u043e\u0442\u0436\u0430\u0442\u0438\u044f\n- \u043d\u0435\u0439\u043c\u0438\u043d\u0433 god \u0438 ideal\n- \u0444\u0435\u0439\u0434 0.66s"
 }
