@@ -2,9 +2,11 @@
     "Build": "Stable",
     "Last update": "10-11-2026",
     "Change Log:": "",
-    "#1": "Reworked Break LC indicator to 1:1 in-world rating style (bad/ok/good/nice/great + ticks)",
-    "#2": "Fixed unclickable buttons and checkboxes in subtabs by balancing menu columns",
-    "#3": "Fixed watermark colorpickers visibility for Default and Expiremental styles",
-    "version": "6.9.6",
-    "changelog": "v6.9.6 Update:\n- Break LC Indicator: Complete rework to in-world 3D text above players (bad, ok, good, nice, great + ticks) matching reference\n- Menu Columns: Balanced left and right groupboxes across all subtabs, eliminating GameSense container input clipping for buttons and bottom controls\n- Buttons: Wrapped all buttons in menu.new and linked to menu_logic for proper visibility state\n- Watermark: Fixed colorpicker visibility logic between Default and Expiremental styles"
+    "#1": "2D Break LC indicator triggered exclusively on charged Double Tap release (bad/ok/good/nice/great)",
+    "#2": "Velocity Warning 1:1 circular widget redesign with speedometer icon and loss percentage",
+    "#3": "Restored full magnetic snapping and screen ruler dragging for Bomb and Velocity indicators",
+    "#4": "Keybind list 1:1 button styling with floating switches and min damage value display",
+    "#5": "Fixed native button click handling across menu subtabs",
+    "version": "6.9.7",
+    "changelog": "v6.9.7 Update:\n- Break LC: 2D screen indicator triggered exclusively on charged Double Tap release with 1:1 ratings and draggable preview\n- Velocity Warning: 1:1 circular widget matching reference video (dark radial glow, speedometer icon, loss %, outer circular progress ring)\n- Bomb & Velocity Magnets: Restored full magnetic snapping lines and smooth drag-snap mechanics\n- Keybinds: Exact 1:1 match with reference (floating toggle switches, min damage number on left, dark name pill on right)\n- Menu: Fixed button click handlers for Generate, Apply, Reset, Check Sound, Warmup Helper"
 }
