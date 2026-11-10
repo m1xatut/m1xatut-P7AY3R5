@@ -2,10 +2,9 @@
     "Build": "Stable",
     "Last update": "10-11-2026",
     "Change Log:": "",
-    "#1": "Break LC indicator accurate unpress tick count calculation based on actual DT unpress duration (fixed 13/12 stuck value)",
-    "#2": "Velocity Warning reactive color customization for progress ring, speedometer icon, and radial glow",
-    "#3": "Break LC indicator reactive color customization with real-time menu preview",
-    "#4": "Spectator List full color customization (Text color, Buttons color, Background color) matching Keybinds List",
-    "version": "6.9.8",
-    "changelog": "v6.9.8 Update:\n- Break LC: Accurate tick counting measuring the exact elapsed ticks of DT unpress (6t, 8t, 10t, etc.), eliminating the static 13/12 bug\n- Colors: Fixed color pickers for Velocity Warning & Break LC Indicator, making them reactive in real time\n- Spectator List: Added Text, Buttons, and Background color pickers identical to Keybinds List"
+    "#1": "Fixed Defensive Pitch Mode console crashes (bad argument #2 to set - value not found) by correctly passing Custom pitch with pitch_offset",
+    "#2": "Velocity Warning indicator now fills from 0 to 100% recovery as requested (recovering up to full 100% circle and 100 max value)",
+    "#3": "Hardened override.set and override.unset with safe pcall execution",
+    "version": "6.9.9",
+    "changelog": "v6.9.9 Update:\n- Defensive AA: Fixed crash when switching Defensive Pitch Mode from Default to Up/Down/Random/Minimal/Switch\n- Velocity Indicator: Redesigned progress arc and value to fill up from tagged speed to 100% (recovering from 0 to 100, not inverted)\n- Safety: Added pcall wrapping to menu overrides"
 }
