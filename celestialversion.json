@@ -2,10 +2,10 @@
     "Build": "Release",
     "Last update": "11-11-2026",
     "Change Log:": "",
-    "#1": "release candidate audit completed",
-    "#2": "removed legacy debug console spam",
-    "#3": "verified lua syntax & root locals",
-    "#4": "100% stable ready for release",
-    "version": "6.9.28",
-    "changelog": "v6.9.28:\n- release candidate audit completed\n- removed legacy debug console spam\n- verified lua syntax & root locals\n- 100% stable ready for release"
+    "#1": "added print in console hitlogs",
+    "#2": "custom prefix color picker",
+    "#3": "clean dual color console log",
+    "#4": "zero newline prefix chaining",
+    "version": "6.9.29",
+    "changelog": "v6.9.29:\n- added print in console hitlogs\n- custom prefix color picker\n- clean dual color console log\n- zero newline prefix chaining"
 }
