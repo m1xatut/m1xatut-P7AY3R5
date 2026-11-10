@@ -2,10 +2,10 @@
     "Build": "Stable",
     "Last update": "11-11-2026",
     "Change Log:": "",
-    "#1": "removed active blue accent bar",
-    "#2": "switched to smooth font with shadow",
-    "#3": "improved vertical tab spacing",
-    "#4": "clean title case tab labels",
-    "version": "6.9.25",
-    "changelog": "v6.9.25:\n- removed active blue accent bar\n- switched to smooth font with shadow\n- improved vertical tab spacing\n- clean title case tab labels"
+    "#1": "clean autobuy primary list",
+    "#2": "renamed scout to ssg 08",
+    "#3": "trimmed grenades list",
+    "#4": "cost based backup sync",
+    "version": "6.9.26",
+    "changelog": "v6.9.26:\n- clean autobuy primary list\n- renamed scout to ssg 08\n- trimmed grenades list\n- cost based backup sync"
 }
