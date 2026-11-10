@@ -2,11 +2,10 @@
     "Build": "Stable",
     "Last update": "10-11-2026",
     "Change Log:": "",
-    "#1": "2D Break LC indicator triggered exclusively on charged Double Tap release (bad/ok/good/nice/great)",
-    "#2": "Velocity Warning 1:1 circular widget redesign with speedometer icon and loss percentage",
-    "#3": "Restored full magnetic snapping and screen ruler dragging for Bomb and Velocity indicators",
-    "#4": "Keybind list 1:1 button styling with floating switches and min damage value display",
-    "#5": "Fixed native button click handling across menu subtabs",
-    "version": "6.9.7",
-    "changelog": "v6.9.7 Update:\n- Break LC: 2D screen indicator triggered exclusively on charged Double Tap release with 1:1 ratings and draggable preview\n- Velocity Warning: 1:1 circular widget matching reference video (dark radial glow, speedometer icon, loss %, outer circular progress ring)\n- Bomb & Velocity Magnets: Restored full magnetic snapping lines and smooth drag-snap mechanics\n- Keybinds: Exact 1:1 match with reference (floating toggle switches, min damage number on left, dark name pill on right)\n- Menu: Fixed button click handlers for Generate, Apply, Reset, Check Sound, Warmup Helper"
+    "#1": "Break LC indicator accurate unpress tick count calculation based on actual DT unpress duration (fixed 13/12 stuck value)",
+    "#2": "Velocity Warning reactive color customization for progress ring, speedometer icon, and radial glow",
+    "#3": "Break LC indicator reactive color customization with real-time menu preview",
+    "#4": "Spectator List full color customization (Text color, Buttons color, Background color) matching Keybinds List",
+    "version": "6.9.8",
+    "changelog": "v6.9.8 Update:\n- Break LC: Accurate tick counting measuring the exact elapsed ticks of DT unpress (6t, 8t, 10t, etc.), eliminating the static 13/12 bug\n- Colors: Fixed color pickers for Velocity Warning & Break LC Indicator, making them reactive in real time\n- Spectator List: Added Text, Buttons, and Background color pickers identical to Keybinds List"
 }
