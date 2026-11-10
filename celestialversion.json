@@ -2,9 +2,10 @@
     "Build": "Stable",
     "Last update": "10-11-2026",
     "Change Log:": "",
-    "#1": "Fixed Defensive Pitch Mode console crashes (bad argument #2 to set - value not found) by correctly passing Custom pitch with pitch_offset",
-    "#2": "Velocity Warning indicator now fills from 0 to 100% recovery as requested (recovering up to full 100% circle and 100 max value)",
-    "#3": "Hardened override.set and override.unset with safe pcall execution",
-    "version": "6.9.9",
-    "changelog": "v6.9.9 Update:\n- Defensive AA: Fixed crash when switching Defensive Pitch Mode from Default to Up/Down/Random/Minimal/Switch\n- Velocity Indicator: Redesigned progress arc and value to fill up from tagged speed to 100% (recovering from 0 to 100, not inverted)\n- Safety: Added pcall wrapping to menu overrides"
+    "#1": "Complete visual overhaul and structure for Configs tab (Local, Clipboard, Cloud)",
+    "#2": "YouTube & Discord now launch the default PC desktop browser, bypassing Steam overlay",
+    "#3": "Fixed Defensive Pitch Mode console crashes by setting Custom pitch with pitch_offset",
+    "#4": "Velocity Warning indicator fills smoothly from tagged speed up to 100% recovery",
+    "version": "6.9.10",
+    "changelog": "v6.9.10 Update:\n- UI: Complete visual redesign of Configs tab with dedicated section headers, structured layout and clean styling\n- Links: YouTube & Discord buttons now open the external desktop PC browser instead of Steam overlay\n- Defensive AA: Resolved nil crash in Defensive Pitch Mode\n- Velocity Indicator: Inverted recovery progress (0 to 100%)"
 }
