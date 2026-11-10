@@ -2,10 +2,10 @@
     "Build": "Stable",
     "Last update": "10-11-2026",
     "Change Log:": "",
-    "#1": "\u043f\u043e\u0444\u0438\u043a\u0441\u0438\u043b \u0441\u043f\u0430\u043c \u0442\u0438\u043a\u043e\u0432",
-    "#2": "\u0437\u0430\u043c\u0435\u0440 \u0432 setup_command",
-    "#3": "\u0447\u0435\u0441\u0442\u043d\u044b\u0435 \u0442\u0438\u043a\u0438 \u0431\u0435\u0437 god",
-    "#4": "\u0440\u0435\u0439\u0442\u044b god \u0438 ideal",
-    "version": "6.9.19",
-    "changelog": "v6.9.19:\n- \u0443\u0431\u0440\u0430\u043d \u0441\u043f\u0430\u043c \u0442\u0438\u043a\u043e\u0432\n- \u0442\u043e\u0447\u043d\u044b\u0439 \u0437\u0430\u043c\u0435\u0440 \u0430\u043d\u043f\u0440\u0435\u0441\u0441\u0430 \u0432 setup_command\n- \u0447\u0435\u0441\u0442\u043d\u044b\u0435 \u0442\u0438\u043a\u0438 \u0431\u0435\u0437 \u043b\u043e\u0436\u043d\u043e\u0433\u043e 13t/god\n- \u0440\u0435\u0439\u0442\u044b god \u0438 ideal"
+    "#1": "fixed unpress charge reset",
+    "#2": "real ticks on dt unpress",
+    "#3": "god & ideal tier naming",
+    "#4": "smooth 0.66s indicator fade",
+    "version": "6.9.20",
+    "changelog": "v6.9.20:\n- fixed unpress charge reset bug\n- real ticks measured on dt unpress\n- god and ideal ratings naming\n- smooth 0.66s indicator fadeout"
 }
