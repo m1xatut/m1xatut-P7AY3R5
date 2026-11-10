@@ -3,9 +3,9 @@
     "Last update": "10-11-2026",
     "Change Log:": "",
     "#1": "instant trigger on unpress",
-    "#2": "accurate charge ticks logic",
-    "#3": "defensive shift tickbase fix",
+    "#2": "restored screen drag & snap",
+    "#3": "accurate charge ticks logic",
     "#4": "smooth 0.66s indicator fade",
-    "version": "6.9.21",
-    "changelog": "v6.9.21:\n- instant trigger on dt unpress\n- accurate charge ticks logic\n- defensive shift tickbase fix\n- smooth 0.66s indicator fadeout"
+    "version": "6.9.22",
+    "changelog": "v6.9.22:\n- instant trigger on dt unpress\n- restored screen drag & snap\n- accurate charge ticks logic\n- smooth 0.66s indicator fadeout"
 }
