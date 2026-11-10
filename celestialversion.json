@@ -2,10 +2,10 @@
     "Build": "Stable",
     "Last update": "10-11-2026",
     "Change Log:": "",
-    "#1": "Configs tab layout reworked: profile & cloud buttons moved under Cloud presets in left column",
-    "#2": "Client info and changelog moved into Other groupbox",
-    "#3": "YouTube & Discord open default PC desktop browser",
-    "#4": "Cleaned up layout and spacers for optimal vertical flow",
-    "version": "6.9.11",
-    "changelog": "v6.9.11 Update:\n- UI: Moved all config profile action buttons, clipboard transfer, and cloud slot buttons directly under Cloud presets in the left column\n- UI: Transferred User & System Info and Recent Updates into the Other groupbox\n- Socials: Maintained external PC desktop browser launcher for YouTube & Discord"
+    "#1": "Restored classic clean info style in Other section",
+    "#2": "Added centered animated gradient Socials header & underline bar under mascot",
+    "#3": "Kept all config management buttons under Cloud presets in left column",
+    "#4": "YouTube & Discord open default PC desktop browser",
+    "version": "6.9.12",
+    "changelog": "v6.9.12 Update:\n- UI: Restored original classic minimalist style for user info and changelog in Other\n- Socials: Added centered animated gradient 'Socials' text and gradient underline bar under mascot in Fake lag\n- Configs: Kept config action and cloud slot buttons under Cloud presets in left column"
 }
