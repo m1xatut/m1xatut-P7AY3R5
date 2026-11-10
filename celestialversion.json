@@ -2,10 +2,10 @@
     "Build": "Stable",
     "Last update": "10-11-2026",
     "Change Log:": "",
-    "#1": "Fixed startup crash on presets_settings_label",
-    "#2": "Hardened all UI label updates with safety guards",
-    "#3": "Socials gradient & underline bar under mascot",
-    "#4": "Restored classic clean info style in Other section",
-    "version": "6.9.13",
-    "changelog": "v6.9.13 Update:\n- Fix: Resolved startup nil index crash on presets_settings_label\n- Safety: Added nil safety checks to all general UI label update routines\n- UI: Restored original classic minimalist style for user info and changelog in Other\n- Socials: Centered animated gradient 'Socials' text and gradient underline bar under mascot in Fake lag\n- Configs: Kept config action and cloud slot buttons under Cloud presets in left column"
+    "#1": "Moved Socials block to Other section below Change Log",
+    "#2": "Separated with animated gradient horizontal divider line",
+    "#3": "Eliminated Fake lag overflow and scrollbar for mascot",
+    "#4": "Centered Socials animated text and desktop browser buttons",
+    "version": "6.9.14",
+    "changelog": "v6.9.14 Update:\n- UI: Moved Socials block to Other section under changelog\n- Divider: Added animated gradient divider bar separating changelog from socials\n- Layout: Cleaned Fake lag tab so mascot fits completely without any scrollbar\n- Links: YouTube and Discord Server open in default PC desktop browser"
 }
