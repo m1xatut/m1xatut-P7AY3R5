@@ -2,10 +2,10 @@
     "Build": "Stable",
     "Last update": "10-11-2026",
     "Change Log:": "",
-    "#1": "Moved Socials block to Other section below Change Log",
-    "#2": "Separated with animated gradient horizontal divider line",
-    "#3": "Eliminated Fake lag overflow and scrollbar for mascot",
-    "#4": "Centered Socials animated text and desktop browser buttons",
-    "version": "6.9.14",
-    "changelog": "v6.9.14 Update:\n- UI: Moved Socials block to Other section under changelog\n- Divider: Added animated gradient divider bar separating changelog from socials\n- Layout: Cleaned Fake lag tab so mascot fits completely without any scrollbar\n- Links: YouTube and Discord Server open in default PC desktop browser"
+    "#1": "Fixed gradient divider bar rendering in Other section",
+    "#2": "Switched to standard continuous baseline glyph with moving gradient",
+    "#3": "Initialized static bar for instant visibility on startup",
+    "#4": "Centered Socials text and desktop browser links",
+    "version": "6.9.15",
+    "changelog": "v6.9.15 Update:\n- Divider: Fixed gradient divider line rendering between Change Log and Socials\n- Visuals: Implemented continuous animated gradient bar matching exact reference\n- Init: Ensured instant rendering upon script initialization\n- UI: Perfect spacing and layout in Other section"
 }
