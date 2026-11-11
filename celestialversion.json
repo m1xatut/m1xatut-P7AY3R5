@@ -2,10 +2,10 @@
     "Build": "Release",
     "Last update": "11-11-2026",
     "Change Log:": "",
-    "#1": "restored distinct cloud presets",
-    "#2": "fixed duplicate preset data collision",
-    "#3": "verified unique configs per slot",
+    "#1": "unified watermark text colorpicker",
+    "#2": "bound ping text color in expiremental",
+    "#3": "cleaned up unused watermark pickers",
     "#4": "clean production sync",
-    "version": "6.9.33",
-    "changelog": "v6.9.33:\n- restored distinct cloud presets\n- fixed duplicate preset data collision\n- verified unique configs per slot\n- clean production sync"
+    "version": "6.9.34",
+    "changelog": "v6.9.34:\n- unified watermark text colorpicker\n- bound ping text color in expiremental\n- cleaned up unused watermark pickers\n- clean production sync"
 }
