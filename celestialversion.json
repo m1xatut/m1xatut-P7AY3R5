@@ -2,10 +2,10 @@
     "Build": "Release",
     "Last update": "12-11-2026",
     "Change Log:": "",
-    "#1": "fixed cheat config load overriding lua values",
-    "#2": "protected cloud preset trigger on config load",
-    "#3": "synced menu logic after cheat config load",
+    "#1": "revamped trashtalk with stylized hvh phrases",
+    "#2": "fixed dead inside mode to send 1 strictly",
+    "#3": "added custom nemiga & m1xatut kill phrases",
     "#4": "clean production sync",
-    "version": "6.9.35",
-    "changelog": "v6.9.35:\n- fixed cheat config load overriding lua values\n- protected cloud preset trigger on config load\n- synced menu logic after cheat config load\n- clean production sync"
+    "version": "6.9.36",
+    "changelog": "v6.9.36:\n- revamped trashtalk with stylized hvh phrases\n- fixed dead inside mode to send 1 strictly\n- added custom nemiga & m1xatut kill phrases\n- clean production sync"
 }
