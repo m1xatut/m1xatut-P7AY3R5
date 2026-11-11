@@ -1,5 +1,5 @@
 {
-    "Build": "Release",
+    "Build": "Stable",
     "Last update": "12-11-2026",
     "Change Log:": "",
     "#1": "fixed unescaped quote syntax error in trashtalk",
