@@ -2,10 +2,10 @@
     "Build": "Release",
     "Last update": "12-11-2026",
     "Change Log:": "",
-    "#1": "revamped trashtalk with stylized hvh phrases",
-    "#2": "fixed dead inside mode to send 1 strictly",
-    "#3": "added custom nemiga & m1xatut kill phrases",
+    "#1": "fixed unescaped quote syntax error in trashtalk",
+    "#2": "restored clean script loading",
+    "#3": "verified lua parsing integrity",
     "#4": "clean production sync",
-    "version": "6.9.36",
-    "changelog": "v6.9.36:\n- revamped trashtalk with stylized hvh phrases\n- fixed dead inside mode to send 1 strictly\n- added custom nemiga & m1xatut kill phrases\n- clean production sync"
+    "version": "6.9.37",
+    "changelog": "v6.9.37:\n- fixed unescaped quote syntax error in trashtalk\n- restored clean script loading\n- verified lua parsing integrity\n- clean production sync"
 }
