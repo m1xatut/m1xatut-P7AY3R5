@@ -1,11 +1,11 @@
 {
     "Build": "Release",
-    "Last update": "11-11-2026",
+    "Last update": "12-11-2026",
     "Change Log:": "",
-    "#1": "unified watermark text colorpicker",
-    "#2": "bound ping text color in expiremental",
-    "#3": "cleaned up unused watermark pickers",
+    "#1": "fixed cheat config load overriding lua values",
+    "#2": "protected cloud preset trigger on config load",
+    "#3": "synced menu logic after cheat config load",
     "#4": "clean production sync",
-    "version": "6.9.34",
-    "changelog": "v6.9.34:\n- unified watermark text colorpicker\n- bound ping text color in expiremental\n- cleaned up unused watermark pickers\n- clean production sync"
+    "version": "6.9.35",
+    "changelog": "v6.9.35:\n- fixed cheat config load overriding lua values\n- protected cloud preset trigger on config load\n- synced menu logic after cheat config load\n- clean production sync"
 }
