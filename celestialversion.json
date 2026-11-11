@@ -2,10 +2,10 @@
     "Build": "Release",
     "Last update": "11-11-2026",
     "Change Log:": "",
-    "#1": "updated all default cloud presets",
-    "#2": "synced latest user configurations",
-    "#3": "integrated 6 desktop presets",
-    "#4": "100% production ready release",
-    "version": "6.9.32",
-    "changelog": "v6.9.32:\n- updated all default cloud presets\n- synced latest user configurations\n- integrated 6 desktop presets\n- 100% production ready release"
+    "#1": "restored distinct cloud presets",
+    "#2": "fixed duplicate preset data collision",
+    "#3": "verified unique configs per slot",
+    "#4": "clean production sync",
+    "version": "6.9.33",
+    "changelog": "v6.9.33:\n- restored distinct cloud presets\n- fixed duplicate preset data collision\n- verified unique configs per slot\n- clean production sync"
 }
