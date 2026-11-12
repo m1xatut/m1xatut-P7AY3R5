@@ -2,10 +2,10 @@
     "Build": "Stable",
     "Last update": "12-11-2026",
     "Change Log:": "",
-    "#1": "HWID fix: switched from ffi.load+ffi.cast to ffi.C for Win32 calls",
-    "#2": "HWID is now 16-char (dual FNV-1a) for stronger uniqueness per machine",
-    "#3": "added celestial_hwid cache file for stable binding across hardware changes",
-    "#4": "HWID display updated to XXXX-XXXX-XXXX-XXXX format",
-    "version": "6.9.38",
-    "changelog": "v6.9.38:\n- HWID fix: ffi.C instead of ffi.load+cast (was returning same HWID on all machines)\n- 16-char dual-pass FNV-1a HWID for stronger machine uniqueness\n- celestial_hwid cache file added (stable binding)\n- HWID display: XXXX-XXXX-XXXX-XXXX format"
+    "#1": "restored full Acantha HWID architecture (SteamID + server UUID generator)",
+    "#2": "creates both celestial_auth and celestial_hwid with hardware/account binding",
+    "#3": "automatic server rebind for legacy bugged keys on first valid launch",
+    "#4": "server-side reject for stale 6B41EA5C HWID fingerprints",
+    "version": "6.9.39",
+    "changelog": "v6.9.39:\n- Restored complete Acantha loader HWID binding architecture\n- Dual persistent files: celestial_auth and celestial_hwid\n- Multi-tier HWID detection: SteamID (Panorama) -> cached celestial_hwid -> server UUID generator (?action=gen_hwid)\n- Server-side migration: auto-rebind legacy bugged keys, hard reject 6B41EA5C"
 }
